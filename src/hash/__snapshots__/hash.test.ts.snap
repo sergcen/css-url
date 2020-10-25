@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`hash base 1`] = `"586a786b"`;
+
+exports[`hash base 2`] = `"586a786b"`;
+
+exports[`hash base 3`] = `"b7d90b16ad9d9aab"`;
+
+exports[`hash base 4`] = `"a16ed3efd431abe32575"`;
+
+exports[`hash base 5`] = `"586a786b"`;
