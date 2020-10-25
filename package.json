@@ -1,6 +1,6 @@
 {
-  "name": "css-url",
-  "version": "0.0.1",
+  "name": "css-url-utils",
+  "version": "0.0.2",
   "description": "Utils for work with assets and urls in css",
   "main": "lib/index.js",
   "files": [
@@ -13,6 +13,9 @@
     "test": "jest",
     "build": "tsc",
     "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "url": "https://github.com/sergcen/css-url"
   },
   "author": "Sergei Savelev <mail+npm@ssav.me>",
   "license": "MIT",
